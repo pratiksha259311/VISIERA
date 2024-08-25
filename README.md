@@ -166,4 +166,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 💬 Contact
 For questions or support, please reach out to me-singhurwashi8@gmail.com.
+NOTE: ## Note on IBM Granite
+
+IBM Granite was originally intended to be a part of this project for [specific purpose, e.g., advanced analytics or machine learning]. Unfortunately, due to technical difficulties with the IBM Granite interface, it was not integrated into the final version of the project.
+
+
+
 
