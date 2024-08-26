@@ -62,7 +62,15 @@ for i in range(0, len(time), 2):
 df.to_csv("Time_of_movements.csv")
 
 video.release()
-cv2.destroyAllWindows() 
+cv2.destroyAllWindows() from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+from <sdk-package-name>.example_service_v1 import *
+
+# Create the authenticator.
+authenticator = IAMAuthenticator(' "28vucNZOLQY_2ebNqn8RTvQcOX203hjTCYc8uoHcBtrh"')
+
+# Construct the service instance.
+service = ExampleServiceV1(authenticator=authenticator)
+
 import cv2
 import time
 import pandas as pd
