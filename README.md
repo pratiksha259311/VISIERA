@@ -130,6 +130,13 @@ for i in range(0, len(time), 2):
     df = df.append({"Start": time[i], "End": time[i + 1]}, ignore_index=True)
 
 df.to_csv("Time_of_movements.csv", index=False)
+{
+	"name": "visiera",
+	"description": "camera detection app",
+	"createdAt": "2024-08-26T15:11+0000",
+	"apikey": "28vucNZOLQY_2ebNqn8RTvQcOX203hjTCYc8uoHcBtrh"
+
+
 
 VISIERA
 VISIERA is an advanced application designed to detect hidden cameras in public places, ensuring enhanced privacy and security. Whether you’re in a hotel, washroom, park, mall, club, or pub, VISIERA uses state-of-the-art computer vision technology to identify potential surveillance devices and alert you to their presence.
