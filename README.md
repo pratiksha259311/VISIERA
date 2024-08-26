@@ -193,6 +193,9 @@ For questions or support, please reach out to me-singhurwashi8@gmail.com.
 NOTE: ## Note on IBM Granite
 
 IBM Granite was originally intended to be a part of this project for [specific purpose, e.g., advanced analytics or machine learning]. Unfortunately, due to technical difficulties with the IBM Granite interface, it was not integrated into the final version of the project.
+my prsentation-![image](https://github.com/user-attachments/assets/002bc49a-21b7-4c9c-a24c-fd37f4291ecb)
+
+
 
 
 
