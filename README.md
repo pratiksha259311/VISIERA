@@ -134,7 +134,16 @@ df.to_csv("Time_of_movements.csv", index=False)
 	"name": "visiera",
 	"description": "camera detection app",
 	"createdAt": "2024-08-26T15:11+0000",
-	"apikey": "28vucNZOLQY_2ebNqn8RTvQcOX203hjTCYc8uoHcBtrh"
+	"apikey": "28vucNZOLQY_2ebNqn8RTvQcOX203hjTCYc8uoHcBtrh"from ibm_cloud_sdk_core.authenticators import IAMAuthenticator
+from <sdk-package-name>.example_service_v1 import *
+
+# Create the authenticator.
+authenticator = IAMAuthenticator(' "28vucNZOLQY_2ebNqn8RTvQcOX203hjTCYc8uoHcBtrh"')
+
+# Construct the service instance.
+service = ExampleServiceV1(authenticator=authenticator)
+
+ 
 
 
 
